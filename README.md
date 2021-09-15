@@ -1,6 +1,6 @@
 # Introduction
 
-As a young Data Analyst I am interested in building my hard coding skills necessary for data projects: collecting, processing, and visualizing data. A starting point for these data analysis projects were learning materials from the platform dataquest.io.
+As a aspiring Data Analyst I am interested in building my hard coding skills necessary for data projects: collecting, processing, and visualizing data. A starting point for these data analysis projects were learning materials from the platform dataquest.io.
 
 
 ## Libraries 
